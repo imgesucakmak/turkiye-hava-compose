@@ -4,7 +4,7 @@ Jetpack Compose ile yazılmış, Türkiye'deki şehirler için canlı hava durum
 **KAMP+ Bilişim Kampı** Android eğitimi kapsamında geliştirildi.
 
 <p align="center">
-  <img src="docs/screenshots/01-yatay.png" width="200" alt="Şehir listesi">
+  
   <img src="docs/screenshots/02-detaylar.png" width="200" alt="Yağmurlu hava detayı">
   <img src="docs/screenshots/03-sehir-ekran.png" width="200" alt="Karanlık tema">
   <img src="docs/screenshots/04-ana-sayfa.png" width="200" alt="Ana ekran widget'ı">
